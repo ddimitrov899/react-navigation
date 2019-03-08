@@ -30,6 +30,12 @@ build/
 local.properties
 *.iml
 
+# Android/VsCode
+#
+.vscode/
+android/
+ios/
+
 # node.js
 #
 node_modules/
